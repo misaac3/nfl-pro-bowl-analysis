@@ -1,0 +1,116 @@
+,Pos,Player,Conf,Tm,Age,Yrs,G,GS,Cmp,Att,Yds,TD,Int,Att.1,Yds.1,TD.1,Rec,Yds.2,TD.2,Solo,Sk,Int.1,All-pro teams
+0,QB,Peyton Manning,,DEN,37,15,16,16,450,659,5477,55,10,32,-31,1,0,0,0,2,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+1,QB,Philip Rivers,Rice,SDG,32,9,16,16,378,544,4478,32,11,28,72,0,0,-9,0,2,0.0,0,PFF: 2nd Tm
+2,QB,Cam Newton,Sanders,CAR,24,2,16,16,292,473,3379,24,13,111,585,6,0,0,0,2,0.0,0,
+3,QB,Andrew Luck,Sanders,IND,24,1,16,16,343,570,3822,23,9,63,377,4,0,0,0,3,0.0,0,
+4,QB,Alex Smith,Rice,KAN,29,8,15,15,308,508,3313,23,7,76,431,1,1,-4,0,1,0.0,0,
+5,QB,Drew Brees,Rice,NOR,34,12,16,16,446,650,5162,39,12,35,52,3,0,0,0,0,0.0,0,
+6,QB,Tom Brady,,NWE,36,13,16,16,380,628,4343,25,11,32,18,0,0,0,0,0,0.0,0,
+7,QB,Nick Foles,Sanders,PHI,24,1,13,10,203,317,2891,27,2,57,221,3,0,0,0,1,0.0,0,
+8,QB,Russell Wilson,,SEA,25,1,16,16,257,407,3357,26,9,96,539,1,0,0,0,3,0.0,0,
+9,RB,LeSean McCoy,Rice,PHI,25,4,16,16,0,0,0,0,0,314,1607,9,52,539,2,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+10,RB,Jamaal Charles,Sanders,KAN,27,5,15,15,0,0,0,0,0,259,1287,12,70,693,7,4,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+11,RB,Eddie Lacy,Sanders,GNB,23,Rook,15,15,0,0,0,0,0,284,1178,11,35,257,0,2,0.0,0,AP: 2nd Tm
+12,RB,Adrian Peterson,,MIN,28,6,14,14,0,0,0,0,0,279,1266,10,29,171,1,2,0.0,0,AP: 2nd Tm
+13,RB,Matt Forte,Rice,CHI,28,5,16,16,0,0,0,0,0,289,1339,9,74,594,3,4,0.0,0,
+14,RB,DeMarco Murray,Rice,DAL,25,2,14,14,0,0,0,0,0,217,1121,9,53,350,1,1,0.0,0,
+15,RB,Marshawn Lynch,,SEA,27,6,16,16,0,0,0,0,0,301,1257,12,36,316,2,3,0.0,0,
+16,RB,Frank Gore,,SFO,30,8,16,16,0,0,0,0,0,276,1128,9,16,141,0,0,0.0,0,
+17,RB,Alfred Morris,Sanders,WAS,25,1,16,16,0,0,0,0,0,276,1275,7,9,78,0,1,0.0,0,
+18,FB,Mike Tolbert,Rice,CAR,28,5,16,13,0,0,0,0,0,101,361,5,27,184,2,3,0.0,0,"AP: 1st Tm, PFF: 2nd Tm"
+19,FB,Marcel Reece,Sanders,OAK,28,5,16,15,1,1,22,0,0,46,218,2,32,331,2,1,0.0,0,AP: 2nd Tm
+20,WR,Calvin Johnson,,DET,28,6,14,14,0,0,0,0,0,0,0,0,84,1492,12,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+21,WR,Josh Gordon,Rice,CLE,22,1,14,14,0,0,0,0,0,5,88,0,87,1646,9,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+22,WR,Antonio Brown,Sanders,PIT,25,3,16,14,1,1,15,0,0,7,4,0,110,1499,8,2,0.0,0,"AP: 2nd Tm, PFF: 1st Tm"
+23,WR,Brandon Marshall,Rice,CHI,29,7,16,16,0,0,0,0,0,0,0,0,100,1295,12,0,0.0,0,PFF: 1st Tm
+24,WR,A.J. Green,Sanders,CIN,25,2,16,16,0,0,0,0,0,0,0,0,98,1426,11,3,0.0,0,AP: 2nd Tm
+25,WR,Demaryius Thomas,,DEN,26,3,16,16,0,0,0,0,0,0,0,0,92,1430,14,2,0.0,0,AP: 2nd Tm
+26,WR,Andre Johnson,,HOU,32,10,16,16,0,0,0,0,0,0,0,0,109,1407,5,6,0.0,0,PFF: 2nd Tm
+27,WR,Alshon Jeffery,Rice,CHI,23,1,16,14,0,0,0,0,0,16,105,0,89,1421,7,4,0.0,0,
+28,WR,Larry Fitzgerald,Rice,ARI,30,9,16,16,0,1,0,0,0,2,8,0,82,954,10,4,0.0,0,
+29,WR,Dez Bryant,Sanders,DAL,25,3,16,16,0,0,0,0,0,1,1,0,93,1233,13,1,0.0,0,
+30,WR,DeSean Jackson,Sanders,PHI,27,5,16,16,0,0,0,0,0,3,2,0,82,1332,9,1,0.0,0,
+31,TE,Jimmy Graham,Rice,NOR,27,3,16,12,0,0,0,0,0,0,0,0,86,1215,16,3,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+32,TE,Vernon Davis,,SFO,29,7,15,15,0,0,0,0,0,0,0,0,52,850,13,0,0.0,0,"AP: 2nd Tm, PFF: 2nd Tm"
+33,TE,Tony Gonzalez,Rice,ATL,37,16,16,16,0,0,0,0,0,0,0,0,83,859,8,1,0.0,0,
+34,TE,Jordan Cameron,Sanders,CLE,25,2,15,14,0,0,0,0,0,0,0,0,80,917,7,1,0.0,0,
+35,TE,Jason Witten,Sanders,DAL,31,10,16,16,0,0,0,0,0,0,0,0,73,851,8,2,0.0,0,
+36,TE,Julius Thomas,,DEN,25,2,14,14,0,0,0,0,0,0,0,0,65,788,12,2,0.0,0,
+37,T,Joe Thomas,Rice,CLE,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+38,T,Tyron Smith,Rice,DAL,23,2,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 2nd Tm, SN: 1st Tm"
+39,T,Joe Staley,,SFO,29,6,16,16,0,0,0,0,0,0,0,0,1,14,0,1,0.0,0,"AP: 2nd Tm, FW: 1st Tm"
+40,T,Jason Peters,,PHI,31,9,16,16,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0,AP: 1st Tm
+41,T,Trent Williams,Sanders,WAS,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,4,0.0,0,PFF: 2nd Tm
+42,T,Jordan Gross,Rice,CAR,33,10,16,16,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+43,T,Duane Brown,Sanders,HOU,28,5,14,14,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+44,T,Branden Albert,Sanders,KAN,29,5,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+45,G,Louis Vasquez,,DEN,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm"
+46,G,Evan Mathis,Rice,PHI,32,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm"
+47,G,Logan Mankins,Sanders,NWE,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 2nd Tm, SN: 1st Tm"
+48,G,Marshal Yanda,Sanders,BAL,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,SN: 1st Tm
+49,G,Jahri Evans,Rice,NOR,30,7,14,14,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,AP: 2nd Tm
+50,G,Kyle Long,Sanders,CHI,25,Rook,16,16,0,0,0,0,0,0,0,0,1,-1,0,0,0.0,0,
+51,G,Ben Grubbs,Rice,NOR,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+52,G,Mike Iupati,,SFO,26,3,12,12,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+53,C,Ryan Kalil,Rice,CAR,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,"AP: 1st Tm, FW: 1st Tm"
+54,C,Alex Mack,Sanders,CLE,28,4,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 2nd Tm, PFF: 2nd Tm, SN: 1st Tm"
+55,C,Mike Pouncey,Sanders,MIA,24,2,14,14,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+56,C,Nick Mangold,Rice,NYJ,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+57,C,Max Unger,,SEA,27,4,13,13,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+58,DE,J.J. Watt,Sanders,HOU,24,2,16,16,0,0,0,0,0,0,0,0,0,0,0,65,10.5,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+59,DE,Robert Quinn,Rice,STL,23,2,16,16,0,0,0,0,0,0,0,0,0,0,0,50,19.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+60,DE,Greg Hardy,Sanders,CAR,25,3,16,13,0,0,0,0,0,0,0,0,0,0,0,40,15.0,0,"AP: 2nd Tm, PFF: 2nd Tm"
+61,DE,Mario Williams,Sanders,BUF,28,7,16,16,0,0,0,0,0,0,0,0,0,0,0,28,13.0,0,AP: 2nd Tm
+62,DE,Cameron Wake,Rice,MIA,31,4,15,15,0,0,0,0,0,0,0,0,0,0,0,29,8.5,0,
+63,DE,Cameron Jordan,Rice,NOR,24,2,16,16,0,0,0,0,0,0,0,0,0,0,0,29,12.5,0,
+64,DT,Gerald McCoy,Sanders,TAM,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,35,9.5,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+65,DT,Ndamukong Suh,Sanders,DET,26,3,16,16,0,0,0,0,0,0,0,0,0,0,0,36,5.5,0,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm"
+66,DT,Marcell Dareus,Rice,BUF,23,2,16,14,0,0,0,0,0,0,0,0,0,0,0,46,7.5,0,PFF: 1st Tm
+67,DT,Kyle Williams,Rice,BUF,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,42,10.5,0,SN: 1st Tm
+68,DT,Dontari Poe,Sanders,KAN,23,1,15,15,0,0,0,0,0,0,0,0,0,0,0,43,4.5,0,"AP: 2nd Tm, PFF: 2nd Tm"
+69,DT,Justin Smith,,SFO,34,12,16,16,0,0,0,0,0,0,0,0,0,0,0,32,6.5,0,AP: 2nd Tm
+70,DT,Jason Hatcher,Rice,DAL,31,7,15,15,0,0,0,0,0,0,0,0,0,0,0,34,11.0,0,
+71,DT,Haloti Ngata,,BAL,29,7,15,15,0,0,0,0,0,0,0,0,0,0,0,23,1.5,0,
+72,OLB,Robert Mathis,Rice,IND,32,10,16,16,0,0,0,0,0,0,0,0,0,0,0,44,19.5,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+73,OLB,Tamba Hali,Sanders,KAN,30,7,15,15,0,0,0,0,0,0,0,0,0,0,0,39,11.0,1,AP: 2nd Tm
+74,OLB,Justin Houston,Rice,KAN,24,2,11,11,0,0,0,0,0,0,0,0,0,0,0,40,11.0,0,PFF: 2nd Tm
+75,OLB,Ahmad Brooks,,SFO,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,52,8.5,1,AP: 2nd Tm
+76,OLB,John Abraham,Rice,ARI,35,13,16,13,0,0,0,0,0,0,0,0,0,0,0,31,11.5,0,
+77,OLB,Terrell Suggs,Sanders,BAL,31,10,16,16,0,0,0,0,0,0,0,0,0,0,0,47,10.0,0,
+78,OLB,Brian Orakpo,Sanders,WAS,27,4,15,15,0,0,0,0,0,0,0,0,0,0,0,43,10.0,1,
+79,ILB,Luke Kuechly,Sanders,CAR,22,1,16,16,0,0,0,0,0,0,0,0,0,0,0,96,2.0,4,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+80,ILB,NaVorro Bowman,,SFO,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,120,5.0,2,"AP: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+81,ILB,Patrick Willis,,SFO,28,6,14,14,0,0,0,0,0,0,0,0,0,0,0,82,3.0,0,PFF: 1st Tm
+82,ILB,Vontaze Burfict,Rice,CIN,23,1,16,16,0,0,0,0,0,0,0,0,0,0,0,115,3.0,1,AP: 2nd Tm
+83,ILB,Paul Posluszny,Sanders,JAX,29,6,15,15,0,0,0,0,0,0,0,0,0,0,0,122,3.0,2,
+84,ILB,Derrick Johnson,Rice,KAN,31,8,15,15,0,0,0,0,0,0,0,0,0,0,0,95,4.5,2,
+85,CB,Richard Sherman,,SEA,25,2,16,16,0,0,0,0,0,0,0,0,0,0,0,38,0.0,8,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+86,CB,Patrick Peterson,Sanders,ARI,23,2,16,16,1,1,17,0,0,4,21,0,6,54,0,40,0.0,3,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm"
+87,CB,Joe Haden,Rice,CLE,24,3,15,15,0,0,0,0,0,0,0,0,0,0,0,43,0.0,4,"SN: 1st Tm, AP: 2nd Tm"
+88,CB,Brent Grimes,Sanders,MIA,30,6,16,16,0,0,0,0,0,0,0,0,0,0,0,52,0.0,4,PFF: 1st Tm
+89,CB,Darrelle Revis,Sanders,TAM,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,43,1.0,2,PFF: 1st Tm
+90,CB,Aqib Talib,,NWE,27,5,13,13,0,0,0,0,0,0,0,0,0,0,0,38,0.0,4,AP: 2nd Tm
+91,CB,Alterraun Verner,Rice,TEN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,49,0.0,5,AP: 2nd Tm
+92,CB,Tim Jennings,Sanders,CHI,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,49,0.0,4,
+93,CB,Brandon Flowers,Rice,KAN,27,5,13,13,0,0,0,0,0,0,0,0,0,0,0,65,1.0,1,
+94,CB,Antonio Cromartie,Rice,NYJ,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,35,0.0,3,
+95,SS,Eric Berry,Sanders,KAN,25,3,15,15,0,0,0,0,0,0,0,0,0,0,0,73,3.5,3,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+96,SS,T.J. Ward,Sanders,CLE,27,3,16,16,0,0,0,0,0,0,0,0,0,0,0,75,1.5,2,AP: 2nd Tm
+97,SS,Antrel Rolle,Rice,NYG,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,80,2.0,6,AP: 2nd Tm
+98,SS,Kam Chancellor,,SEA,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,80,0.0,3,AP: 2nd Tm
+99,SS,Troy Polamalu,,PIT,32,10,16,16,0,0,0,0,0,0,0,0,0,0,0,50,2.0,2,
+100,FS,Earl Thomas,,SEA,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,78,0.0,5,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+101,FS,Jairus Byrd,Rice,BUF,27,4,11,9,0,0,0,0,0,0,0,0,0,0,0,37,1.0,4,AP: 2nd Tm
+102,FS,Eric Weddle,Sanders,SDG,28,6,16,16,0,0,0,0,0,2,4,0,0,0,0,88,1.0,2,AP: 2nd Tm
+103,FS,Eric Reid,Rice,SFO,22,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,73,0.0,4,
+104,LS,J.J. Jansen,Sanders,CAR,27,4,16,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0,
+105,LS,Matt Overton,Rice,IND,28,1,16,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0,
+106,K,Justin Tucker,Sanders,BAL,24,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+107,K,Matt Prater,,DEN,29,6,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,AP: 2nd Tm
+108,K,Stephen Gostkowski,Rice,NWE,29,7,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+109,P,Johnny Hekker,Rice,STL,23,1,16,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm"
+110,P,Brandon Fields,Sanders,MIA,29,6,16,0,0,0,0,0,0,1,0,0,0,0,0,2,0.0,0,"SN: 1st Tm, AP: 2nd Tm"
+111,PR,Cordarrelle Patterson,Sanders,MIN,22,Rook,16,6,0,0,0,0,0,12,158,3,45,469,4,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+112,PR,Dexter McCluster,Rice,KAN,24,3,15,6,0,0,0,0,0,8,5,0,53,511,2,1,0.0,0,"FW: 1st Tm, SN: 1st Tm, AP: 2nd Tm, PFF: 2nd Tm"
+113,ST,Justin Bethel,Rice,ARI,23,1,16,0,0,0,0,0,0,0,0,0,0,0,0,18,0.0,0,"FW: 1st Tm, PFF: 1st Tm"
+114,ST,Matt Slater,Sanders,NWE,28,5,12,0,0,0,0,0,0,0,0,0,0,0,0,9,0.0,0,

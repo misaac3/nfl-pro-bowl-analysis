@@ -1,0 +1,116 @@
+,Pos,Player,Conf,Tm,Age,Yrs,G,GS,Cmp,Att,Yds,TD,Int,Att.1,Yds.1,TD.1,Rec,Yds.2,TD.2,Solo,Sk,Int.1,All-pro teams
+0,QB,Aaron Rodgers,,GNB,31,9,16,16,341,520,4381,38,5,43,269,2,0,0,0,2,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+1,QB,Tony Romo,Irvin,DAL,34,10,15,15,304,435,3705,34,9,26,61,0,0,0,0,1,0.0,0,AP: 2nd Tm
+2,QB,Ben Roethlisberger,,PIT,32,10,16,16,408,608,4952,32,9,33,27,0,0,-6,0,0,0.0,0,PFF: 2nd Tm
+3,QB,Matt Ryan,Irvin,ATL,29,6,16,16,415,628,4694,28,14,29,145,0,0,0,0,0,0.0,0,
+4,QB,Andy Dalton,Carter,CIN,27,3,16,16,309,481,3398,19,17,60,169,4,1,18,1,2,0.0,0,
+5,QB,Andrew Luck,Carter,IND,25,2,16,16,380,616,4761,40,16,64,273,3,0,0,0,3,0.0,0,
+6,QB,Peyton Manning,,DEN,38,16,16,16,395,597,4727,39,15,24,-24,0,0,0,0,2,0.0,0,
+7,QB,Matthew Stafford,Irvin,DET,26,5,16,16,363,602,4257,22,12,43,93,2,0,0,0,3,0.0,0,
+8,QB,Drew Brees,Carter,NOR,35,13,16,16,456,659,4952,33,17,27,68,1,1,1,0,0,0.0,0,
+9,QB,Tom Brady,,NWE,37,14,16,16,373,582,4109,33,9,36,57,0,0,0,0,1,0.0,0,
+10,RB,Le'Veon Bell,,PIT,22,1,16,16,0,0,0,0,0,290,1361,8,83,854,3,3,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+11,RB,Darren Sproles,Irvin,PHI,31,9,15,0,0,0,0,0,0,57,329,6,40,387,0,1,0.0,0,"AP: 2nd Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+12,RB,DeMarco Murray,Irvin,DAL,26,3,16,16,0,0,0,0,0,392,1845,13,57,416,0,2,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+13,RB,Marshawn Lynch,,SEA,28,7,16,14,0,0,0,0,0,280,1306,13,37,367,4,0,0.0,0,"AP: 2nd Tm, PFF: 2nd Tm"
+14,RB,C.J. Anderson,Irvin,DEN,23,1,15,7,0,0,0,0,0,179,849,8,34,324,2,1,0.0,0,
+15,RB,Arian Foster,,HOU,28,5,13,13,1,1,5,1,0,260,1246,8,38,327,5,1,0.0,0,
+16,RB,Jamaal Charles,Carter,KAN,28,6,15,15,0,0,0,0,0,206,1033,9,40,291,5,2,0.0,0,
+17,RB,Mark Ingram,Irvin,NOR,25,3,13,9,0,0,0,0,0,226,964,9,29,145,0,1,0.0,0,
+18,RB,LeSean McCoy,,PHI,26,5,16,16,0,0,0,0,0,312,1319,5,28,155,0,1,0.0,0,
+19,RB,Justin Forsett,Carter,BAL,29,6,16,14,0,0,0,0,0,235,1266,8,44,263,0,2,0.0,0,
+20,RB,Alfred Morris,Carter,WAS,26,2,16,16,0,0,0,0,0,265,1074,8,17,155,0,2,0.0,0,
+21,FB,John Kuhn,Carter,GNB,32,8,16,2,0,0,0,0,0,24,85,1,4,23,0,1,0.0,0,AP: 1st Tm
+22,FB,Marcel Reece,Irvin,OAK,29,6,15,15,0,0,0,0,0,21,85,0,37,265,1,4,0.0,0,
+23,WR,Antonio Brown,Carter,PIT,26,4,16,16,2,2,20,1,0,4,13,0,129,1698,13,2,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+24,WR,Dez Bryant,,DAL,26,4,16,16,0,0,0,0,0,0,0,0,88,1320,16,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm"
+25,WR,Matt Slater,,NWE,29,6,16,0,0,0,0,0,0,0,0,0,0,0,0,14,0.0,0,"FW: 1st Tm, PFF: 1st Tm"
+26,WR,Jordy Nelson,Carter,GNB,29,6,16,16,0,0,0,0,0,0,0,0,98,1519,13,1,0.0,0,"AP: 2nd Tm, PFF: 2nd Tm, SN: 1st Tm"
+27,WR,Julio Jones,,ATL,25,3,15,15,0,0,0,0,0,1,1,0,104,1593,6,3,0.0,0,SN: 1st Tm
+28,WR,Emmanuel Sanders,Irvin,DEN,27,4,16,16,0,0,0,0,0,8,44,0,101,1404,9,1,0.0,0,PFF: 1st Tm
+29,WR,Odell Beckham,Irvin,NYG,22,Rook,12,11,0,1,0,0,0,7,35,0,91,1305,12,3,0.0,0,PFF: 1st Tm
+30,WR,Demaryius Thomas,,DEN,27,4,16,16,0,0,0,0,0,0,0,0,111,1619,11,2,0.0,0,AP: 2nd Tm
+31,WR,Randall Cobb,Irvin,GNB,24,3,16,16,0,0,0,0,0,11,37,0,91,1287,12,1,0.0,0,PFF: 2nd Tm
+32,WR,Devin Hester,Carter,ATL,32,8,16,1,0,0,0,0,0,6,36,1,38,504,2,1,0.0,0,
+33,WR,A.J. Green,Carter,CIN,26,3,13,13,0,0,0,0,0,2,2,0,69,1041,6,1,0.0,0,
+34,WR,T.Y. Hilton,Carter,IND,25,2,15,15,0,0,0,0,0,2,20,0,82,1345,7,1,0.0,0,
+35,WR,Calvin Johnson,,DET,29,7,13,13,0,0,0,0,0,0,0,0,71,1077,8,2,0.0,0,
+36,WR,Golden Tate,Irvin,DET,26,4,16,16,0,0,0,0,0,5,30,0,99,1331,4,3,0.0,0,
+37,TE,Rob Gronkowski,,NWE,25,4,15,10,0,0,0,0,0,0,0,0,82,1124,12,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+38,TE,Greg Olsen,Carter,CAR,29,7,16,16,0,0,0,0,0,0,0,0,84,1008,6,1,0.0,0,PFF: 2nd Tm
+39,TE,Martellus Bennett,Carter,CHI,27,6,16,15,0,0,0,0,0,0,0,0,90,916,6,1,0.0,0,
+40,TE,Jason Witten,Irvin,DAL,32,11,16,16,0,0,0,0,0,0,0,0,64,703,5,3,0.0,0,
+41,TE,Julius Thomas,,DEN,26,3,13,10,0,0,0,0,0,0,0,0,43,489,12,3,0.0,0,
+42,TE,Jimmy Graham,Irvin,NOR,28,4,16,13,0,0,0,0,0,0,0,0,85,889,10,1,0.0,0,
+43,LT,Joe Thomas,Irvin,CLE,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 1st Tm, FW: 1st Tm"
+44,LT,Ryan Clady,Carter,DEN,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+45,T,Jason Peters,,PHI,32,10,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 2nd Tm, PFF: 1st Tm, SN: 1st Tm"
+46,T,Duane Brown,Carter,HOU,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+47,T,Trent Williams,,WAS,26,4,15,15,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+48,LG,Josh Sitton,Carter,GNB,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 2nd Tm, FW: 1st Tm, SN: 1st Tm"
+49,LG,Kyle Long,Irvin,CHI,26,1,15,15,0,0,0,0,0,0,0,0,0,0,0,4,0.0,0,AP: 2nd Tm
+50,G,Zack Martin,Irvin,DAL,24,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,AP: 1st Tm
+51,G,Jahri Evans,,NOR,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+52,G,Evan Mathis,Carter,PHI,33,9,9,9,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+53,G,Mike Iupati,,SFO,27,4,15,15,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+54,C,Travis Frederick,Irvin,DAL,23,1,16,16,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0,"AP: 2nd Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+55,C,Nick Mangold,Irvin,NYJ,30,8,15,15,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,PFF: 1st Tm
+56,C,Maurkice Pouncey,Carter,PIT,25,4,16,16,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0,AP: 1st Tm
+57,C,Jason Kelce,Carter,PHI,27,3,12,12,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+58,RG,Marshal Yanda,Irvin,BAL,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+59,RG,Mike Pouncey,Carter,MIA,25,3,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+60,RT,Tyron Smith,Irvin,DAL,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+61,RT,Joe Staley,Carter,SFO,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+62,DE,J.J. Watt,Carter,HOU,25,3,16,16,0,0,0,0,0,0,0,0,3,4,3,59,20.5,1,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+63,DE,Mario Williams,Carter,BUF,29,8,16,16,0,0,0,0,0,0,0,0,0,0,0,36,14.5,0,"AP: 1st Tm, FW: 1st Tm"
+64,DE,Robert Quinn,Irvin,STL,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,39,10.5,0,SN: 1st Tm
+65,DE,Cameron Wake,Irvin,MIA,32,5,16,16,0,0,0,0,0,0,0,0,0,0,0,31,11.5,0,"AP: 2nd Tm, PFF: 2nd Tm"
+66,DE,Calais Campbell,Carter,ARI,28,6,14,14,0,0,0,0,0,0,0,0,0,0,0,48,7.0,1,AP: 2nd Tm
+67,DE,DeMarcus Ware,Irvin,DEN,32,9,16,15,0,0,0,0,0,0,0,0,0,0,0,37,10.0,1,
+68,DT,Ndamukong Suh,,DET,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,46,8.5,0,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+69,DT,Marcell Dareus,Carter,BUF,24,3,15,15,0,0,0,0,0,0,0,0,0,0,0,35,10.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm"
+70,DT,Gerald McCoy,,TAM,26,4,13,13,0,0,0,0,0,0,0,0,0,0,0,28,8.5,0,"AP: 2nd Tm, SN: 1st Tm"
+71,DT,Sheldon Richardson,Irvin,NYJ,24,1,16,16,0,0,0,0,0,0,0,0,0,0,0,42,8.0,0,PFF: 1st Tm
+72,DT,Aaron Donald,Irvin,STL,23,Rook,16,12,0,0,0,0,0,0,0,0,0,0,0,37,9.0,0,PFF: 1st Tm
+73,DT,Kyle Williams,Carter,BUF,31,8,15,15,0,0,0,0,0,0,0,0,0,0,0,31,5.5,1,
+74,DT,Geno Atkins,Irvin,CIN,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,22,3.0,0,
+75,NT,Dontari Poe,Carter,KAN,24,2,16,16,0,0,0,0,0,0,0,0,0,0,0,38,6.0,0,
+76,OLB,Von Miller,Irvin,DEN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,48,14.0,0,"AP: 2nd Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+77,OLB,Elvis Dumervil,Irvin,BAL,30,8,16,2,0,0,0,0,0,0,0,0,0,0,0,29,17.0,0,AP: 1st Tm
+78,OLB,Connor Barwin,Carter,PHI,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,47,14.5,0,AP: 2nd Tm
+79,OLB,Clay Matthews,Irvin,GNB,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,52,11.0,1,
+80,OLB,Tamba Hali,Carter,KAN,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,47,6.0,0,
+81,ILB,Lawrence Timmons,Carter,PIT,28,7,16,16,0,0,0,0,0,0,0,0,0,0,0,90,2.0,0,AP: 2nd Tm
+82,ILB,D'Qwell Jackson,Irvin,IND,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,96,4.0,0,
+83,MLB,Luke Kuechly,Irvin,CAR,23,2,16,16,0,0,0,0,0,0,0,0,0,0,0,107,3.0,1,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+84,MLB,C.J. Mosley,Carter,BAL,22,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,99,3.0,2,AP: 2nd Tm
+85,LB,Justin Houston,Carter,KAN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,59,22.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+86,LB,Bobby Wagner,,SEA,24,2,11,11,0,0,0,0,0,0,0,0,0,0,0,83,2.0,0,AP: 1st Tm
+87,CB,Darrelle Revis,,NWE,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,44,0.0,2,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+88,CB,Vontae Davis,Irvin,IND,26,5,15,15,0,0,0,0,0,0,0,0,0,0,0,50,0.0,4,PFF: 1st Tm
+89,CB,Brent Grimes,Irvin,MIA,31,7,16,16,0,0,0,0,0,0,0,0,0,0,0,48,0.0,5,AP: 2nd Tm
+90,CB,Joe Haden,Irvin,CLE,25,4,15,15,0,0,0,0,0,0,0,0,0,0,0,58,0.0,3,
+91,CB,Antonio Cromartie,Carter,ARI,30,8,16,16,0,0,0,0,0,0,0,0,0,0,0,46,0.0,3,
+92,CB,Patrick Peterson,Carter,ARI,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,48,1.0,3,
+93,CB,Aqib Talib,Carter,DEN,28,6,15,15,0,0,0,0,0,0,0,0,0,0,0,58,1.0,4,
+94,CB,Sam Shields,Carter,GNB,27,4,14,14,0,0,0,0,0,0,0,0,0,0,0,36,0.0,2,
+95,SS,Kam Chancellor,,SEA,26,4,14,14,0,0,0,0,0,0,0,0,0,0,0,80,0.0,1,AP: 2nd Tm
+96,SS,Mike Adams,Irvin,IND,33,10,16,16,0,0,0,0,0,0,0,0,0,0,0,77,0.0,5,
+97,SS,T.J. Ward,Irvin,DEN,28,4,15,15,0,0,0,0,0,0,0,0,0,0,0,62,2.0,2,
+98,SS,Darrell Stuckey,Irvin,SDG,27,4,16,0,0,0,0,0,0,0,0,0,0,0,0,18,0.0,0,
+99,SS,Antoine Bethea,Carter,SFO,30,8,16,16,0,0,0,0,0,0,0,0,0,0,0,71,1.0,4,
+100,FS,Eric Weddle,Irvin,SDG,29,7,16,16,0,1,0,0,0,0,0,0,0,0,0,91,0.0,1,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+101,FS,Earl Thomas,,SEA,25,4,16,16,0,0,0,0,0,0,0,0,0,0,0,88,0.0,1,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+102,FS,Glover Quin,Carter,DET,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,58,0.0,7,"AP: 2nd Tm, PFF: 2nd Tm"
+103,FS,Donte Whitner,Carter,CLE,29,8,16,16,0,0,0,0,0,0,0,0,0,0,0,68,0.0,1,
+104,LS,Jon Dorenbos,Irvin,PHI,34,11,16,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,PFF: 1st Tm
+105,LS,L.P. Ladouceur,Carter,DAL,33,9,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+106,DB,Richard Sherman,,SEA,26,3,16,16,0,0,0,0,0,0,0,0,0,0,0,52,0.0,4,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+107,DB,Chris Harris,Irvin,DEN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,54,1.0,3,"AP: 2nd Tm, PFF: 1st Tm"
+108,DB,Justin Bethel,Carter,ARI,24,2,16,0,0,0,0,0,0,0,0,0,0,0,0,22,0.0,0,PFF: 1st Tm
+109,DB,Tashaun Gipson,,CLE,24,2,11,11,0,0,0,0,0,0,0,0,0,0,0,28,0.0,6,
+110,K,Adam Vinatieri,Irvin,IND,42,18,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+111,K,Stephen Gostkowski,,NWE,30,8,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,AP: 2nd Tm
+112,K,Cody Parkey,Carter,PHI,22,Rook,16,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+113,P,Pat McAfee,Carter,IND,27,5,16,0,0,1,0,0,0,0,0,0,0,0,0,2,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm"
+114,P,Kevin Huber,Irvin,CIN,29,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,SN: 1st Tm

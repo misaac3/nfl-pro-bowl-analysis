@@ -1,0 +1,117 @@
+,Pos,Player,Conf,Tm,Age,Yrs,G,GS,Cmp,Att,Yds,TD,Int,Att.1,Yds.1,TD.1,Rec,Yds.2,TD.2,Solo,Sk,Int.1,All-pro teams
+0,QB,Tom Brady,AFC,NWE,33,10,16,16,324,492,3900,36,4,31,30,1,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+1,QB,Matt Ryan,NFC,ATL,25,2,16,16,357,571,3705,28,9,46,122,0,0,0,0,0,0.0,0,PFF: 1st Tm
+2,QB,Peyton Manning,AFC,IND,34,12,16,16,450,679,4700,33,17,18,18,0,0,0,0,0,0.0,0,
+3,QB,Matt Cassel,AFC,KAN,28,5,15,15,262,450,3116,27,7,33,125,0,0,0,0,0,0.0,0,
+4,QB,Drew Brees,NFC,NOR,31,9,16,16,448,658,4620,33,22,18,-3,0,1,7,0,1,0.0,0,
+5,QB,Michael Vick,NFC,PHI,30,9,12,12,233,372,3018,21,6,100,676,9,0,0,0,0,0.0,0,
+6,QB,Philip Rivers,AFC,SDG,29,6,16,16,357,541,4710,30,13,29,52,0,0,0,0,3,0.0,0,
+7,RB,Arian Foster,AFC,HOU,24,1,16,13,0,0,0,0,0,327,1616,16,66,604,2,2,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+8,RB,Jamaal Charles,AFC,KAN,24,2,16,6,0,0,0,0,0,230,1467,5,45,468,3,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm"
+9,RB,Maurice Jones-Drew,AFC,JAX,25,4,14,14,0,1,0,0,1,299,1324,5,34,317,2,3,0.0,0,SN: 1st Tm
+10,RB,Adrian Peterson,NFC,MIN,25,3,15,15,0,0,0,0,0,283,1298,12,36,341,1,3,0.0,0,"AP: 2nd Tm, PFF: 2nd Tm"
+11,RB,Michael Turner,NFC,ATL,28,6,16,15,0,0,0,0,0,334,1371,12,12,85,0,0,0.0,0,AP: 2nd Tm
+12,RB,Chris Johnson,AFC,TEN,25,2,16,16,0,0,0,0,0,316,1364,11,44,245,1,2,0.0,0,
+13,RB,Steven Jackson,NFC,STL,27,6,16,16,0,0,0,0,0,330,1241,6,46,383,0,1,0.0,0,
+14,FB,Ovie Mughelli,NFC,ATL,30,7,16,6,0,0,0,0,0,13,36,0,13,126,1,6,0.0,0,"AP: 2nd Tm, PFF: 1st Tm"
+15,FB,Vonta Leach,AFC,HOU,29,6,16,5,0,0,0,0,0,0,0,0,8,91,0,6,0.0,0,AP: 1st Tm
+16,WR,Roddy White,NFC,ATL,29,5,16,16,0,0,0,0,0,1,3,0,115,1389,10,3,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm, PFF: 2nd Tm"
+17,WR,Reggie Wayne,AFC,IND,32,9,16,16,0,0,0,0,0,0,0,0,111,1355,6,1,0.0,0,"AP: 1st Tm, FW: 1st Tm"
+18,WR,Andre Johnson,AFC,HOU,29,7,13,13,0,0,0,0,0,2,10,0,86,1216,8,2,0.0,0,"PFF: 1st Tm, SN: 1st Tm"
+19,WR,Brandon Lloyd,AFC,DEN,29,7,16,11,0,0,0,0,0,1,-18,0,77,1448,11,2,0.0,0,"PFF: 1st Tm, AP: 2nd Tm"
+20,WR,Calvin Johnson,NFC,DET,25,3,15,15,0,0,0,0,0,4,32,0,77,1120,12,2,0.0,0,"AP: 2nd Tm, PFF: 2nd Tm"
+21,WR,Dwayne Bowe,AFC,KAN,26,3,16,16,0,0,0,0,0,1,4,0,72,1162,15,1,0.0,0,AP: 2nd Tm
+22,WR,Larry Fitzgerald,NFC,ARI,27,6,16,15,0,0,0,0,0,0,0,0,90,1137,6,4,0.0,0,
+23,WR,Miles Austin,NFC,DAL,26,4,16,16,0,0,0,0,0,7,93,1,69,1041,7,6,0.0,0,
+24,WR,Greg Jennings,NFC,GNB,27,4,16,16,0,0,0,0,0,1,-1,0,76,1265,12,3,0.0,0,
+25,WR,Wes Welker,AFC,NWE,29,6,15,11,0,0,0,0,0,0,0,0,86,848,7,0,0.0,0,
+26,WR,DeSean Jackson,NFC,PHI,24,2,14,14,0,0,0,0,0,16,104,1,47,1056,6,1,0.0,0,
+27,TE,Jason Witten,NFC,DAL,28,7,16,16,0,0,0,0,0,0,0,0,94,1002,9,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+28,TE,Marcedes Lewis,AFC,JAX,26,4,16,16,0,0,0,0,0,0,0,0,58,700,10,3,0.0,0,PFF: 2nd Tm
+29,TE,Antonio Gates,AFC,SDG,30,7,10,10,0,0,0,0,0,0,0,0,50,782,10,0,0.0,0,AP: 2nd Tm
+30,TE,Tony Gonzalez,NFC,ATL,34,13,16,16,0,0,0,0,0,0,0,0,70,656,6,1,0.0,0,
+31,TE,Zach Miller,AFC,OAK,25,3,15,15,0,0,0,0,0,0,0,0,60,685,5,4,0.0,0,
+32,T,Jake Long,AFC,MIA,25,2,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+33,T,Joe Thomas,AFC,CLE,26,3,16,16,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+34,T,Jason Peters,NFC,PHI,28,6,13,13,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,AP: 2nd Tm
+35,T,Tyson Clabo,NFC,ATL,29,4,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+36,T,Jordan Gross,NFC,CAR,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+37,T,Chad Clifton,NFC,GNB,34,10,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+38,T,Matt Light,AFC,NWE,32,9,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+39,T,D'Brickashaw Ferguson,AFC,NYJ,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0,
+40,T,Donald Penn,NFC,TAM,27,3,16,16,0,0,0,0,0,0,0,0,1,1,1,0,0.0,0,
+41,G,Jahri Evans,NFC,NOR,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+42,G,Chris Snee,NFC,NYG,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0,"AP: 2nd Tm, FW: 1st Tm, SN: 1st Tm"
+43,G,Carl Nicks,NFC,NOR,25,2,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 2nd Tm, PFF: 1st Tm"
+44,G,Logan Mankins,AFC,NWE,28,5,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,AP: 1st Tm
+45,G,Brian Waters,AFC,KAN,33,10,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+46,G,Kris Dielman,AFC,SDG,29,7,15,15,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+47,C,Nick Mangold,AFC,NYJ,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+48,C,Maurkice Pouncey,AFC,PIT,21,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,AP: 2nd Tm
+49,C,Ryan Kalil,NFC,CAR,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+50,C,Alex Mack,AFC,CLE,25,1,16,16,0,0,0,0,0,0,0,0,0,0,0,4,0.0,0,
+51,C,Jeff Saturday,AFC,IND,35,11,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+52,C,Andre Gurode,NFC,DAL,32,8,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+53,C,Shaun O'Hara,NFC,NYG,33,10,6,6,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+54,DE,Julius Peppers,NFC,CHI,30,8,16,16,0,0,0,0,0,0,0,0,0,0,0,43,8.0,2,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+55,DE,John Abraham,NFC,ATL,32,10,15,13,0,0,0,0,0,0,0,0,0,0,0,35,13.0,1,"AP: 1st Tm, SN: 1st Tm"
+56,DE,Justin Tuck,NFC,NYG,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,48,11.5,0,"AP: 2nd Tm, FW: 1st Tm"
+57,DE,Dwight Freeney,AFC,IND,30,8,16,16,0,0,0,0,0,0,0,0,0,0,0,21,10.0,0,
+58,DE,Robert Mathis,AFC,IND,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,44,11.0,0,
+59,DE,Randy Starks,AFC,MIA,27,6,16,16,0,0,0,0,0,0,0,0,0,0,0,26,3.0,0,
+60,DE,Jason Babin,AFC,TEN,30,6,16,16,0,0,0,0,0,0,0,0,0,0,0,44,12.5,0,
+61,DT,Haloti Ngata,AFC,BAL,26,4,16,15,0,0,0,0,0,0,0,0,0,0,0,46,5.5,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+62,DT,Ndamukong Suh,NFC,DET,23,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,48,10.0,1,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+63,DT,Kyle Williams,AFC,BUF,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,54,5.5,0,"AP: 2nd Tm, PFF: 1st Tm"
+64,DT,Justin Smith,NFC,SFO,31,9,16,16,0,0,0,0,0,0,0,0,0,0,0,57,8.5,0,PFF: 1st Tm
+65,DT,Vince Wilfork,AFC,NWE,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,46,2.0,0,AP: 2nd Tm
+66,DT,Darnell Dockett,NFC,ARI,29,6,15,15,0,0,0,0,0,0,0,0,0,0,0,45,5.0,0,
+67,DT,Jay Ratliff,NFC,DAL,29,5,16,16,0,0,0,0,0,0,0,0,0,0,0,23,3.5,0,
+68,DT,Richard Seymour,AFC,OAK,31,9,13,13,0,0,0,0,0,0,0,0,0,0,0,36,5.5,0,
+69,OLB,James Harrison,AFC,PIT,32,8,16,16,0,0,0,0,0,0,0,0,0,0,0,70,10.5,2,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+70,OLB,Clay Matthews,NFC,GNB,24,1,15,15,0,0,0,0,0,0,0,0,0,0,0,54,13.5,1,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+71,OLB,Cameron Wake,AFC,MIA,28,1,16,16,0,0,0,0,0,0,0,0,0,0,0,48,14.0,0,"AP: 2nd Tm, PFF: 2nd Tm, SN: 1st Tm"
+72,OLB,DeMarcus Ware,NFC,DAL,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,56,15.5,0,"AP: 2nd Tm, PFF: 2nd Tm"
+73,OLB,Jon Beason,NFC,CAR,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,90,1.0,1,
+74,OLB,Lance Briggs,NFC,CHI,30,7,15,15,0,0,0,0,0,0,0,0,0,0,0,76,2.0,2,
+75,OLB,Terrell Suggs,AFC,BAL,28,7,16,16,0,0,0,0,0,0,0,0,0,0,0,53,11.0,0,
+76,OLB,Shaun Phillips,AFC,SDG,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,47,11.0,1,
+77,OLB,Brian Orakpo,NFC,WAS,24,1,15,15,0,0,0,0,0,0,0,0,0,0,0,36,8.5,0,
+78,ILB,Jerod Mayo,AFC,NWE,24,2,16,16,0,0,0,0,0,0,0,0,0,0,0,114,2.0,0,"AP: 1st Tm, FW: 1st Tm"
+79,ILB,Patrick Willis,NFC,SFO,25,3,15,15,0,0,0,0,0,0,0,0,0,0,0,101,6.0,0,"AP: 1st Tm, PFF: 2nd Tm"
+80,ILB,Brian Urlacher,NFC,CHI,32,10,16,16,0,0,0,0,0,0,0,0,0,0,0,96,4.0,1,AP: 2nd Tm
+81,ILB,Ray Lewis,AFC,BAL,35,14,16,16,0,0,0,0,0,0,0,0,0,0,0,102,2.0,2,AP: 2nd Tm
+82,ILB,E.J. Henderson,NFC,MIN,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,71,1.0,3,
+83,ILB,London Fletcher,NFC,WAS,35,12,16,16,0,0,0,0,0,0,0,0,0,0,0,87,2.5,1,
+84,CB,Darrelle Revis,AFC,NYJ,25,3,13,13,0,0,0,0,0,0,0,0,0,0,0,26,0.0,0,"AP: 1st Tm, FW: 1st Tm"
+85,CB,Asante Samuel,NFC,PHI,29,7,11,10,0,0,0,0,0,0,0,0,0,0,0,22,0.0,7,"FW: 1st Tm, SN: 1st Tm"
+86,CB,Devin McCourty,AFC,NWE,23,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,60,1.0,7,"AP: 2nd Tm, SN: 1st Tm"
+87,CB,Nnamdi Asomugha,AFC,OAK,29,7,14,14,0,0,0,0,0,0,0,0,0,0,0,17,0.0,0,"AP: 1st Tm, PFF: 2nd Tm"
+88,CB,Champ Bailey,AFC,DEN,32,11,15,15,0,0,0,0,0,0,0,0,0,0,0,41,1.0,2,PFF: 1st Tm
+89,CB,Charles Woodson,NFC,GNB,34,12,16,16,0,0,0,0,0,0,0,0,0,0,0,76,2.0,2,AP: 2nd Tm
+90,CB,Antoine Winfield,NFC,MIN,33,11,16,16,0,0,0,0,0,0,0,0,0,0,0,73,2.0,2,PFF: 2nd Tm
+91,CB,Brent Grimes,NFC,ATL,27,3,16,16,0,0,0,0,0,0,0,0,0,0,0,76,0.0,5,
+92,CB,DeAngelo Hall,NFC,WAS,27,6,16,16,0,0,0,0,0,0,0,0,0,0,0,65,0.0,6,
+93,SS,Troy Polamalu,AFC,PIT,29,7,14,14,0,0,0,0,0,0,0,0,0,0,0,49,1.0,7,"AP: 1st Tm, FW: 1st Tm, PFF: 2nd Tm, SN: 1st Tm"
+94,SS,Adrian Wilson,NFC,ARI,31,9,16,16,0,0,0,0,0,0,0,0,0,0,0,76,2.0,2,
+95,SS,Eric Berry,AFC,KAN,22,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,72,2.0,4,
+96,FS,Ed Reed,AFC,BAL,32,8,10,10,0,0,0,0,0,0,0,0,0,0,0,30,0.0,8,"AP: 1st Tm, FW: 1st Tm, SN: 1st Tm"
+97,FS,Nick Collins,NFC,GNB,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,59,0.0,4,AP: 2nd Tm
+98,FS,Antrel Rolle,NFC,NYG,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,75,0.5,1,AP: 2nd Tm
+99,FS,Michael Griffin,AFC,TEN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,86,0.0,4,AP: 2nd Tm
+100,FS,Roman Harper,NFC,NOR,28,4,15,15,0,0,0,0,0,0,0,0,0,0,0,76,3.0,1,
+101,FS,Brandon Meriweather,AFC,NWE,26,3,16,13,0,0,0,0,0,0,0,0,0,0,0,49,0.0,3,
+102,LS,John Denney,AFC,MIA,32,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+103,LS,Zak DeOssie,NFC,NYG,26,3,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+104,K,Billy Cundiff,AFC,BAL,30,8,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm"
+105,K,David Akers,NFC,PHI,36,12,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 2nd Tm, SN: 1st Tm"
+106,P,Shane Lechler,AFC,OAK,34,10,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+107,P,Mat McBriar,NFC,DAL,31,6,16,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,"AP: 2nd Tm, PFF: 2nd Tm"
+108,KR,Devin Hester,NFC,CHI,28,4,16,13,0,0,0,0,0,7,30,0,40,475,4,1,0.0,0,"AP: 1st Tm, FW: 1st Tm, PFF: 1st Tm, SN: 1st Tm"
+109,KR,Marc Mariani,AFC,TEN,23,Rook,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 2nd Tm
+110,ST,Eric Weems,NFC,ATL,25,3,16,4,0,0,0,0,0,0,0,0,6,61,0,14,0.0,0,FW: 1st Tm
+111,ST,Montell Owens,AFC,JAX,26,4,16,0,0,0,0,0,0,0,0,0,0,0,0,11,0.0,0,
+112,DT,Kevin Williams,NFC,MIN,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,27,1.0,0,PFF: 2nd Tm
+113,DB/RCB,Tramon Williams,NFC,GNB,27,3,16,16,0,0,0,0,0,0,0,0,0,0,0,50,1.0,6,
+114,MLB,Jonathan Vilma,NFC,NOR,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,71,4.0,1,
+115,DE,Brett Keisel,AFC,PIT,32,8,11,11,0,0,0,0,0,0,0,0,0,0,0,17,3.0,1,
